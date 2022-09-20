@@ -7,3 +7,6 @@
 1: Crear un Monitor para > https://uptimerobot.com
 
 2: Crear el comando (rtv!invite) Para que se una al servidor de prueba 
+
+Contribuye con Ko-Fi:
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q66H88X)
