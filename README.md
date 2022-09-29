@@ -1,4 +1,5 @@
-
+# ⚠️⚠️⚠️Bot INESTABLE⚠️⚠️⚠️
+### ⚠️⚠️⚠️INFORMACIÓN DESACTUALIZADA⚠️⚠️⚠️
 # Bot en Estado Beta
 ## FASE BETA
 
